@@ -7,8 +7,15 @@
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmayvaij/todolist.git"
+  },
+  "keywords": [
+    "todolist",
+    "todoapp"
+  ],
+  "author": "Tanmay Vaij",
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
